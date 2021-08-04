@@ -19,5 +19,4 @@ I can list multiple level bullet point like this:
   - Child 2
 
 Below is my company logo:
-
-![Image of Hashicorp](https://octodex.github.com/images/yaktocat.png)
+![Image of Hashicorp](https://en.wikipedia.org/wiki/HashiCorp#/media/File:HashiCorp_Logo_no_text.png)
