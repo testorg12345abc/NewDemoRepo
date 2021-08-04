@@ -22,4 +22,4 @@ Below is my company logo:
 
 ![Image of Hashicorp]
 
-(https://upload.wikimedia.org/wikipedia/commons/8/80/HashiCorp_Logo_no_text.png)
+(https://octodex.github.com/images/yaktocat.png)
