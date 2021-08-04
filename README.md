@@ -17,3 +17,7 @@ I can list multiple level bullet point like this:
 - Father
   - Child 1
   - Child 2
+
+Below is my company logo:
+![Logo of Hashicorp]
+(https://upload.wikimedia.org/wikipedia/commons/8/80/HashiCorp_Logo_no_text.png)
