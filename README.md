@@ -21,5 +21,4 @@ I can list multiple level bullet point like this:
 Below is my company logo:
 
 ![Image of Hashicorp]
-
 (https://octodex.github.com/images/yaktocat.png)
