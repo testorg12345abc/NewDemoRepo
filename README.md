@@ -20,3 +20,15 @@ I can list multiple level bullet point like this:
 
 Below is my company logo:
 ![Image of Hashicorp](https://upload.wikimedia.org/wikipedia/commons/8/80/HashiCorp_Logo_no_text.png)
+
+
+
+# Heading 1
+This is Heading 1 size.
+
+## Heading 2
+This is Heading 2 size.
+
+### Heading 3
+This is Heading 3 size.
+> The beautiful thing about learning is that nobody can take it away from you.
